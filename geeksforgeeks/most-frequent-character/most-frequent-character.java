@@ -1,2 +1,2 @@
-      int freq=j-i;
+        int n = s.length();
 
