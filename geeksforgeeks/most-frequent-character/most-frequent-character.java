@@ -1,2 +1,2 @@
-            else if(freq==maxfrex&&ch<ans){
+      int freq=j-i;
 
