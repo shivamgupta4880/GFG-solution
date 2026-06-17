@@ -1,2 +1,2 @@
-        if(b==0)return 1;
+        else return call*call*a;
 
