@@ -17,9 +17,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0792-binary-search](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0792-binary-search) |
 | [1833-find-the-highest-altitude](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/1833-find-the-highest-altitude) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1833-find-the-highest-altitude](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/1833-find-the-highest-altitude) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0792-binary-search) |
 <!---LeetCode Topics End-->
