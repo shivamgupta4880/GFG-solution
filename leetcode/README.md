@@ -14,4 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0202-happy-number) |
+## Array
+|  |
+| ------- |
+| [1833-find-the-highest-altitude](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/1833-find-the-highest-altitude) |
+## Prefix Sum
+|  |
+| ------- |
+| [1833-find-the-highest-altitude](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/1833-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
