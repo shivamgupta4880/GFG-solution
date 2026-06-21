@@ -27,4 +27,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0792-binary-search](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0792-binary-search) |
+## String
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0022-generate-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
