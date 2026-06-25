@@ -19,10 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0494-target-sum](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0494-target-sum) |
 | [0792-binary-search](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0792-binary-search) |
+| [1603-running-sum-of-1d-array](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/1833-find-the-highest-altitude) |
 ## Prefix Sum
 |  |
 | ------- |
+| [1603-running-sum-of-1d-array](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/1833-find-the-highest-altitude) |
 ## Binary Search
 |  |
