@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0048-rotate-image) |
 | [0202-happy-number](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0202-happy-number) |
 | [2752-sum-multiples](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/2752-sum-multiples) |
 ## Hash Table
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0048-rotate-image) |
 | [0494-target-sum](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0494-target-sum) |
 | [0792-binary-search](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0898-transpose-matrix) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0048-rotate-image) |
 | [0898-transpose-matrix](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0898-transpose-matrix) |
 ## Simulation
 |  |
