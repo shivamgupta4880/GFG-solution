@@ -1,0 +1,2 @@
+                arr[endcol][j]=temp;
+
