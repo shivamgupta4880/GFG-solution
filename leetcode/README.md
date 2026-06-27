@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0048-rotate-image) |
+| [0118-pascals-triangle](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0118-pascals-triangle) |
 | [0494-target-sum](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0494-target-sum) |
 | [0792-binary-search](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0898-transpose-matrix) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0022-generate-parentheses) |
+| [0118-pascals-triangle](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0118-pascals-triangle) |
 | [0494-target-sum](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0494-target-sum) |
 ## Backtracking
 |  |
