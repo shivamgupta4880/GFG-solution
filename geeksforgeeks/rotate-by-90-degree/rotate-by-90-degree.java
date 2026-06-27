@@ -1,2 +1,2 @@
-                arr[endcol][j]=temp;
+                arr[i][j]=arr[j][i];
 
