@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0048-rotate-image) |
 | [0118-pascals-triangle](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0118-pascals-triangle) |
+| [0240-search-a-2d-matrix-ii](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0240-search-a-2d-matrix-ii) |
 | [0494-target-sum](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0494-target-sum) |
 | [0792-binary-search](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0898-transpose-matrix) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0240-search-a-2d-matrix-ii) |
 | [0792-binary-search](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0792-binary-search) |
 ## String
 |  |
@@ -55,9 +57,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0048-rotate-image) |
+| [0240-search-a-2d-matrix-ii](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0240-search-a-2d-matrix-ii) |
 | [0898-transpose-matrix](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0898-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0898-transpose-matrix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
