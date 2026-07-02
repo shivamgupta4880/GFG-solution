@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0118-pascals-triangle) |
+| [0215-kth-largest-element-in-an-array](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0240-search-a-2d-matrix-ii) |
 | [0494-target-sum](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0494-target-sum) |
 | [0792-binary-search](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0792-binary-search) |
@@ -70,13 +71,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0240-search-a-2d-matrix-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0075-sort-colors) |
+| [0215-kth-largest-element-in-an-array](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0215-kth-largest-element-in-an-array) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0014-longest-common-prefix) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
