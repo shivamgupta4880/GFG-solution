@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0075-sort-colors) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0022-generate-parentheses) |
 ## Dynamic Programming
 |  |
@@ -73,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0075-sort-colors) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
