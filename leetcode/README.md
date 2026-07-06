@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0240-search-a-2d-matrix-ii) |
 | [0494-target-sum](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0494-target-sum) |
+| [0561-array-partition](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0561-array-partition) |
 | [0792-binary-search](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0898-transpose-matrix) |
 | [1603-running-sum-of-1d-array](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/1603-running-sum-of-1d-array) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0215-kth-largest-element-in-an-array) |
+| [0561-array-partition](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0561-array-partition) |
 ## Trie
 |  |
 | ------- |
@@ -90,4 +92,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0215-kth-largest-element-in-an-array) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0561-array-partition) |
 <!---LeetCode Topics End-->
