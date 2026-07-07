@@ -1,0 +1,2 @@
+            ans.append(w[i]);
+
