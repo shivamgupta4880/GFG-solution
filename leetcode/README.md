@@ -4,12 +4,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0048-rotate-image) |
 | [0202-happy-number](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0202-happy-number) |
 | [2752-sum-multiples](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/2752-sum-multiples) |
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0012-integer-to-roman) |
 | [0202-happy-number](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0202-happy-number) |
 ## Two Pointers
 |  |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0022-generate-parentheses) |
 ## Dynamic Programming
