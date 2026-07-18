@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0048-rotate-image) |
 | [0202-happy-number](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0202-happy-number) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/2106-find-greatest-common-divisor-of-array) |
 | [2752-sum-multiples](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/2752-sum-multiples) |
 ## Hash Table
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0898-transpose-matrix) |
 | [1603-running-sum-of-1d-array](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/1833-find-the-highest-altitude) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/2106-find-greatest-common-divisor-of-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -108,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0136-single-number) |
+## Number Theory
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/2106-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
