@@ -10,4 +10,4 @@
 <pre><span style="font-size: 18px;"><strong>Input:</strong> arr[] = [10, 10, 10]
 <strong>Output:</strong> -1
 <strong>Explanation: </strong>The largest element of the array is 10 and the second largest element does not exist.</span></pre>
-<p><span style="font-size: 18px;"></span></p></div><p><span style=font-size:18px><strong>Company Tags : </strong><br><code>SAP Labs</code>&nbsp;<code>Rockstand</code>&nbsp;<br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>Arrays</code>&nbsp;<code>Searching</code>&nbsp;<code>Data Structures</code>&nbsp;<code>Algorithms</code>&nbsp;
+<p><span style="font-size: 18px;"><strong>Constraints:</strong><br>2 ≤ arr.size() ≤ 10<sup>5</sup><br>1 ≤ arr[i]<sub>&nbsp;</sub>≤ 10<sup>5</sup></span></p></div><p><span style=font-size:18px><strong>Company Tags : </strong><br><code>SAP Labs</code>&nbsp;<code>Rockstand</code>&nbsp;<br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>Arrays</code>&nbsp;<code>Searching</code>&nbsp;
