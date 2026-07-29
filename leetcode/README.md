@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0048-rotate-image) |
+| [0066-plus-one](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0066-plus-one) |
 | [0202-happy-number](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0202-happy-number) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/2106-find-greatest-common-divisor-of-array) |
 | [2752-sum-multiples](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/2752-sum-multiples) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0048-rotate-image) |
+| [0066-plus-one](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0066-plus-one) |
 | [0075-sort-colors](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0136-single-number) |
