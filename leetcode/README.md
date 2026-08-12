@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0048-rotate-image) |
 | [0066-plus-one](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0066-plus-one) |
@@ -117,4 +118,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/2106-find-greatest-common-divisor-of-array) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
