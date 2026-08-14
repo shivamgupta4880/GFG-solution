@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0022-generate-parentheses) |
 | [4179-largest-even-number](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/4179-largest-even-number) |
 ## Dynamic Programming
@@ -126,4 +127,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0002-add-two-numbers) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
