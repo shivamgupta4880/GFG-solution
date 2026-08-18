@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0012-integer-to-roman) |
 | [0202-happy-number](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0202-happy-number) |
 ## Two Pointers
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0020-valid-parentheses) |
@@ -137,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0020-valid-parentheses) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shivamgupta4880/GFG-solution/tree/master/LeetCode/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
